@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawGroupChallenge</string>
+    <string name="country_name">Country Name</string>
+    <string name="gold_medals">Gold Medals</string>
+    <string name="silver_medals">Silver Medals</string>
+    <string name="bronze_medals">Bronze Medals</string>
+    <string name="save">Save</string>
+    <string name="add_country">Add Country</string>
+</resources>
